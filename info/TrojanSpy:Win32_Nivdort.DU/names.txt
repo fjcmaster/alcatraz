@@ -1,0 +1,3 @@
+ed2cd14a28ff2d00a5cefcf6a074af8d sample.exe
+f12fff160ed1a0c2c4faaf9bd26e8d6c segmento_rsa.pgp
+4c3eb86921f7d152cb7cfa1e9005ce56 segmento_copyright.txt
